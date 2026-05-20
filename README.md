@@ -1,5 +1,6 @@
 # maritime-telemetry-automation
 Python-based ETL and data governance pipelines interfacing with cloud databases to automate compliance reporting.
+These scripts were used as internal tools (packaged as .exe) and executed locally by a small number of trusted users.
 
 Markdown
 # Maritime Telemetry & Reporting Automation Pipeline
